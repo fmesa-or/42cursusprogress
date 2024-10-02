@@ -1,6 +1,6 @@
 # MY PROGRESS AT 42Malaga
 
-[![fmesa-or's 42 stats](https://badge.mediaplus.ma/colorfulwaves/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![fmesa-or's 42 stats (if you see this I'm on freeze)](https://badge.mediaplus.ma/colorfulwaves/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # 📚 Libft <img width="116" alt="125/100" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 <br>
@@ -23,19 +23,22 @@
 <br>
 <br>
 
-<!--
-# 🔢 Push_swap <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+# ◀️▶️ Pipex <img width="116" alt="125/100" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 <br>
 <br>
 
-# 📶 Minitalk <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+# 🔢 Push_swap <img width="129" alt="100/100" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 <br>
 <br>
 
 # 🍴 Philosophers <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
-► [Project description and code](https://github.com/gemartin99/Philosophers)
 <br>
 <br>
+
+# 👨🏻‍🎓 Exam Rank 02 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
+
+# 👨🏻‍🎓 Exam Rank 03 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
+<!--
 # 🐚 Minishell <img width="118" alt="Screen Shot 2023-11-18 at 4 50 14 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c14f2848-1249-4485-84ee-2b68644556d3">
 
 ► [Project description and code](https://github.com/gemartin99/minishell)
@@ -64,9 +67,6 @@
 
 ► [Project description and tutorial](https://github.com/gemartin99/ft_transcendence)
 
-# 👨🏻‍🎓 Exam Rank 02 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
-
-# 👨🏻‍🎓 Exam Rank 03 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 
 # 👨🏻‍🎓 Exam Rank 04 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 
