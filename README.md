@@ -35,16 +35,17 @@
 <br>
 <br>
 
+# 🐚 Minishell <img width="118" alt="Screen Shot 2023-11-18 at 4 50 14 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c14f2848-1249-4485-84ee-2b68644556d3">
+<br>
+<br>
+
 # 👨🏻‍🎓 Exam Rank 02 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 
 # 👨🏻‍🎓 Exam Rank 03 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
+
+
 <!--
-# 🐚 Minishell <img width="118" alt="Screen Shot 2023-11-18 at 4 50 14 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c14f2848-1249-4485-84ee-2b68644556d3">
-
-► [Project description and code](https://github.com/gemartin99/minishell)
-<br>
-
-# ⚡️ MiniRT <img width="121" alt="Screen Shot 2023-11-18 at 4 49 55 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c29192d0-a3d2-49ef-866a-a6e0891e4d42">
+# ⚡️ CUB3D <img width="121" alt="Screen Shot 2023-11-18 at 4 49 55 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c29192d0-a3d2-49ef-866a-a6e0891e4d42">
 
 ► [Project description and code](https://github.com/gemartin99/MiniRT)
 <br>
