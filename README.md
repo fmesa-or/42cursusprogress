@@ -10,7 +10,7 @@
 
 # 📖 Get_Next_Line <img width="116" alt="125/100" src="./badges/125.svg">
 
-# ♾ Fractol <img width="116" alt="120/100" src=".badges/120.svg"> 
+# ♾ Fractol <img width="116" alt="120/100" src="./badges/120.svg"> 
 
 # ◀️▶️ Pipex <img width="116" alt="125/100" src="./badges/125.svg">
 
@@ -24,11 +24,11 @@
 
 # 👨🏻‍🎓 Exam Rank 03 <img width="116" alt="100/100" src="./badges/100.svg">
 
-# ⚡️ CUB3D <img width="116" alt="105/100" src=".badges/105.svg">
+# ⚡️ CUB3D <img width="116" alt="105/100" src="./badges/105.svg">
 
-# 🌐 Netpractice <img width="116" alt="100/100" src=".badges/100.svg">
+# 🌐 Netpractice <img width="116" alt="100/100" src="./badges/100.svg">
 
-# C ➕➕  (working on them) <img width="116" alt="6/10 finished" src=".badges6/10.svg">
+# C ➕➕  (working on them) <img width="116" alt="6/10 finished" src="./badges6/10.svg">
 
 <!-- Not started yet
 
