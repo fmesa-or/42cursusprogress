@@ -28,7 +28,7 @@
 
 # 🌐 Netpractice <img width="116" alt="100/100" src="./badges/100.svg">
 
-# C ➕➕  (working on them) <img width="116" alt="6/10 finished" src="./badges6/10.svg">
+# C ➕➕  (working on them) <img width="116" alt="6/10 finished" src="./badges/6.svg">
 
 <!-- Not started yet
 
