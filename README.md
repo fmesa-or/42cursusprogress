@@ -1,10 +1,10 @@
 # MY PROGRESS AT 42Malaga
 
-[![fmesa-or's 42 stats (if you see this I'm on freeze)](https://badge.mediaplus.ma/colorfulwaves/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![fmesa-or's 42 stats](https://badge.mediaplus.ma/colorfulwaves/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # <a href='https://github.com/fmesa-or/Libft' target="_blank">📚 Libft</a> <img width="116" alt="125/100" src="./badges/125.svg">
 
-# <a href='' target="_blank">🖥 Born2beroot</a> <img width="116" alt="125/100" src="./badges/125.svg">
+# 🖥 Born2beroot <img width="116" alt="125/100" src="./badges/125.svg">
 
 # <a href='https://github.com/fmesa-or/Ft_Printf' target="_blank">📝 Printf</a> <img width="116" alt="100/100" src="./badges/100.svg">
 
