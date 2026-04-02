@@ -1,6 +1,6 @@
 # MY PROGRESS AT 42Malaga
 
-[![fmesa-or's 42 stats](https://badge.mediaplus.ma/colorfulwaves/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![fmesa-or's 42 stats (If you see this I'm on lvl 5)](https://badge.mediaplus.ma/binary/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # <a href='https://github.com/fmesa-or/Libft' target="_blank">📚 Libft</a> <img width="116" alt="125/100" src="./badges/125.svg">
 
