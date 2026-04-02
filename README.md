@@ -4,7 +4,7 @@
 
 # <a href='https://github.com/fmesa-or/Libft' target="_blank">📚 Libft</a> <img width="116" alt="125/100" src="./badges/125.svg">
 
-# 🖥 Born2beroot <img width="116" alt="125/100" src="./badges/125.svg">
+# <a href='https://github.com/fmesa-or/Born2BeRoot' target="_blank">🖥 Born2beroot</a> <img width="116" alt="125/100" src="./badges/125.svg">
 
 # <a href='https://github.com/fmesa-or/Ft_Printf' target="_blank">📝 Printf</a> <img width="116" alt="100/100" src="./badges/100.svg">
 
